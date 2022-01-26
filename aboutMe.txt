@@ -2,3 +2,4 @@ Name: Tristan Limawan
 Major: Computer Science and Engineering
 Year: Junior
 Hobbies: Playing the piano
+Courses: COEN174, ENGL181, ENGR19, ENGR1L
